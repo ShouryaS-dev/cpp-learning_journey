@@ -14,6 +14,7 @@ This repository contains my C++ practice programs, experiments and notes while l
 - Structures
 - Unions and Enums
 - Miscellaneous
+- Switches
 
 
 I will continue updating this repository as I learn more C++.
